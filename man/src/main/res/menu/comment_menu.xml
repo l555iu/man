@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reply" android:title="回复" />
+    <item android:id="@+id/copy" android:title="复制" />
+    <group android:id="@+id/userGroup">
+        <item android:id="@+id/delete" android:title="删除" />
+    </group>
+    <group android:id="@+id/link">
+        <item android:id="@+id/open" android:title="打开链接" />
+    </group>
+    <item android:id="@+id/close" android:title="x" />
+</menu>
