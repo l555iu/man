@@ -38,6 +38,9 @@
         <activity android:name="com.l555iu.activity.TabHostActivity">
         </activity>
         <activity android:name="com.l555iu.activity.PopMenuActivity">
+
+        </activity>
+        <activity android:name="com.l555iu.activity.DialogActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
